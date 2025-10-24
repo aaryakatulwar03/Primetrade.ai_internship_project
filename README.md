@@ -13,20 +13,34 @@ Using Hyperliquid trade data and the Bitcoin Fear & Greed Index, the goal is to 
 
 📦 trader-sentiment-analysis/
 │
+
 ├── README.md 
+
 ├── Trader_Sentiment_Analysis.ipynb 
+
 ├── Trader_Sentiment_Report.pdf 
+
 │
+
 ├── 📂 data/
+
 │ ├── historical_data.csv ← Hyperliquid trade dataset (see download link below)
+
 │ ├── fear_greed_index.csv ← Bitcoin Fear & Greed Index dataset (see download link below)
+
 │
+
 ├── 📂 outputs/
+
 │ ├── processed_trades.csv ← Cleaned/merged trade data
+
 │ ├── sentiment_merged.csv ← Trades merged with sentiment
+
 │
 └── 📂 figures/
+
 ├── figure1_daily_pnl.png ← Daily total PnL by sentiment
+
 ├── figure2_winrate_by_sentiment.png ← Win rate by sentiment
 
 
