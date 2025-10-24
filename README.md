@@ -18,7 +18,7 @@ Using Hyperliquid trade data and the Bitcoin Fear & Greed Index, the goal is to 
 
 ├── Trader_Sentiment_Analysis.ipynb 
 
-├── Trader_Sentiment_Report.pdf 
+├── Report.pdf 
 
 
 ├── 📂 data/
@@ -27,12 +27,6 @@ Using Hyperliquid trade data and the Bitcoin Fear & Greed Index, the goal is to 
 
 │ ├── fear_greed_index.csv ← Bitcoin Fear & Greed Index dataset (see download link below)
 
-
-├── 📂 outputs/
-
-│ ├── processed_trades.csv ← Cleaned/merged trade data
-
-│ ├── sentiment_merged.csv ← Trades merged with sentiment
 
 └── 📂 figures/
 
